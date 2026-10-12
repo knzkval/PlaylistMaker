@@ -20,7 +20,7 @@
 - Gson 2.13.2 для парсинга JSON
 
 ## Сборка
-- https://github.com/PolinaSidorova/PlaylistMaker_Final-master-sidorova/tree/master
+- https://github.com/knzkval/PlaylistMaker/tree/master
 
 - Откройте Android Studio версии 2025.2.2 или новее
 - Выберите "Open" и укажите папку проекта, которая была создана после клонирования
